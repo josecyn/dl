@@ -20,7 +20,7 @@ Official websites:
 
 ## Kaggle
 
-I also use to play around in [Kaggle](https://www.kaggle.com) competitions.
+I also use to play around in [Kaggle](https://github.com/josecyn/dl/tree/master/Kaggle) competitions.
 
 ## Meetups
 
